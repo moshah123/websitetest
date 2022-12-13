@@ -1,3 +1,3 @@
-system.out.println("hello");
 println("hello");
+system.out.println("hello");
 
